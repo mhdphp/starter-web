@@ -15,4 +15,4 @@ The deployment can be done on any server.
 Use caution when you made any contribution
 
 ## Warning
-Please use this file with care
+Please use this file with care. All rights reserved
