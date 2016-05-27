@@ -4,6 +4,7 @@
 # TEAM
 
     John Doe jdoe@mail.com
+	william Defoe wdef@hollywood.com
 
 # THANKS
 
@@ -17,3 +18,4 @@
 	
 # Comments
 	This is a comment for the multi-stash example
+	This is a comment for the stash -branch example.
