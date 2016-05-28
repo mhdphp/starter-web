@@ -19,3 +19,6 @@
 # Comments
 	This is a comment for the multi-stash example
 	This is a comment for the stash -branch example.
+	
+# Current version
+	This is version 1.2 release
